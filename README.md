@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eugen252009
 - 👀 I’m interested in Programming and creating Websites.
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Serverside Rendering
 - 📫 How to reach me eugen@lupricht.net
 - Visit my Page: <a href="https://lupricht.net">lupricht.net</a>
 
