@@ -7,7 +7,7 @@ Im a self taught Programmer from Germany.
 
 **Description:**
 
-SecureSync is a powerful and reliable software application designed to enhance the security of your data during synchronization with cloud storage platforms. With SecureCloudX, you can confidently protect your sensitive files and ensure their confidentiality throughout the synchronization process.
+SecureCloudX is a powerful and reliable software application designed to enhance the security of your data during synchronization with cloud storage platforms. With SecureCloudX, you can confidently protect your sensitive files and ensure their confidentiality throughout the synchronization process.
 
 Click [here](https://securecloudx.com/newsletter/) to Sign up for the Newsletter.
 
